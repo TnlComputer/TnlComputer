@@ -19,7 +19,7 @@ Me encanta aprender tecnologías nuevas y construir proyectos que generen impact
 ## 🚀 En qué estoy enfocado actualmente
 
 Actualmente me encuentro trabajando en:
-- 🔍 Proyecto Fraschina srl
+- 🔍 Proyecto Fraschina
 - ✨ Mejorando mis habilidades en  desarrollo backend, data analytics, devops
 - 📈 Contribuyendo a proyectos open-source y mejorando mi flujo de trabajo con Git y Docker
 
@@ -35,11 +35,11 @@ Actualmente me encuentro trabajando en:
 
 ## 📊 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JorgeGustavoMartinez&show_icons=true&theme=tokyonight)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TnlComputer&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=JorgeGustavoMartinez&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=TnlComputer&theme=dark&hide_border=false)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGustavoMartinez&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TnlComputer&layout=compact&theme=tokyonight)
 
 
 ---
