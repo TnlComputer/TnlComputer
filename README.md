@@ -56,7 +56,7 @@ Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**
 
 ## 🚀 Actualmente enfocado en
 
-- 🔍 **Proyecto Fraschina**
+- 🔍 **Proyecto Symon Sport Lubricentro**
 - 📊 Desarrollo backend, análisis de datos y automatización de procesos
 - 🐳 Mejora del flujo de trabajo con Git, Docker y CI/CD
 - 💡 Contribución a proyectos Open Source
