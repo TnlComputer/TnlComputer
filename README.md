@@ -63,9 +63,49 @@ Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
 ## 📚 Educación & Certificaciones
 
 ### 🎓 Alura
-- **Inmersión IA con Google Gemini** (2024) – Modelos de IA, integración con Google Apps y generación de contenido inteligente.  
-- **7DaysOfCode** (En curso) – Reto de 7 días con ejercicios prácticos de programación.  
-- Certificados en: HTML5, CSS3, Java, JavaScript, PHP, Laravel, Bootstrap, Vue.js, SolidJS, Bash, Python, Node.js, TypeScript, Git & GitHub, PayPal, Laravel + Vue.
+- **Inmersión IA con Google Gemini** (2024)  
+- **7DaysOfCode – Reto de Programación** (En curso)  
+- Certificados en:
+  - HTML5, CSS3 (curso y taller)
+  - Java, JavaScript, PHP
+  - Bootstrap, Laravel, Symfony, Vue.js, SolidJS
+  - Python, Node.js, TypeScript, Bash
+  - Git & GitHub
+  - PayPal (Integración de pagos)
+  - Práctica Full Stack: Laravel + Vue (2024)
+
+---
+
+###  🎓 Talento Tech
+- Certificados en:
+  - Business Intelligence Consulting – 25/08/2025
+  - Introducción a la IA – 29/08/2025
+  - Business Intelligence – 04/07/2025
+  - Taller de GitHub – Certificación – 29/07/2025
+  - Programación Inicial con Python – 18/01/2025
+
+---
+
+###  🎓 Codo a Codo 
+- Certificados en:
+  - Development JAVA-FRONT END 2024 1 – 31/05/2024
+  - Development JAVA-BACK END 2024 2 – 12/07/2024
+
+---
+
+###  🎓 Ademass
+
+2023 – 2024
+
+- Certificados en:
+  - HTML5, CSS3 (Curso y Taller)
+  - Git & GitHub
+  - Bootstrap, CSS3, Java, JavaScript, Laravel, PHP, SolidJS
+  - Bash, Python, Node.js, TypeScript, Symfony
+  - PayPal (Integración de Pagos)
+  - Taller / Práctica Full Stack: Laravel + Vue
+
+---
 
 ### 🎓 OpenBootcamp (OB)
 - Introducción a la Programación, HTML & CSS, JavaScript, Git, Java Básico, Python, Django, TypeScript, Angular Básico, ReactJS Básico/Intermedio, PHP, Laravel.
