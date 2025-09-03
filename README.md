@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Jorge Martinez!
 
-¡Bienvenido a mi perfil de GitHub!  
-Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**, **DevOps**, y **Data Analytics**. Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
+Soy un apasionado de la tecnología con experiencia en **Desarrollo Full Stack**, **DevOps** y **Data Analytics**.  
+Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
 
 ---
 
@@ -15,7 +15,7 @@ Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Cobol](https://img.shields.io/badge/-COBOL-005CA5?style=flat&logoColor=white)
+![COBOL](https://img.shields.io/badge/-COBOL-005CA5?style=flat&logoColor=white)
 
 ### 🚀 Frameworks y Librerías
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
@@ -51,22 +51,24 @@ Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**
 ![Pentaho](https://img.shields.io/badge/-Pentaho-003366?style=flat&logo=data&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-0C223F?style=flat&logoColor=white)
 
+---
+
+## 🚀 Proyectos Destacados
+- **Symon Sport Lubricentro** – Backend en Laravel, automatización de procesos, análisis de datos. [Repo](#)
+- **Dashboard de BI** – Visualización de ventas y KPIs en Looker Studio y Google Sheets. [Repo](#)
+- **Proyecto Full Stack Laravel + Vue.js** – Desarrollo de aplicaciones web escalables con frontend moderno y APIs robustas. [Repo](#)
 
 ---
 
-## 🚀 Actualmente enfocado en
+## 📚 Educación & Certificaciones
 
-- 🔍 **Proyecto Symon Sport Lubricentro**
-- 📊 Desarrollo backend, análisis de datos y automatización de procesos
-- 🐳 Mejora del flujo de trabajo con Git, Docker y CI/CD
-- 💡 Contribución a proyectos Open Source
+### 🎓 Alura
+- **Inmersión IA con Google Gemini** (2024) – Modelos de IA, integración con Google Apps y generación de contenido inteligente.  
+- **7DaysOfCode** (En curso) – Reto de 7 días con ejercicios prácticos de programación.  
+- Certificados en: HTML5, CSS3, Java, JavaScript, PHP, Laravel, Bootstrap, Vue.js, SolidJS, Bash, Python, Node.js, TypeScript, Git & GitHub, PayPal, Laravel + Vue.
 
----
-
-## 📈 GitHub Stats
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TnlComputer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TnlComputer&layout=compact&theme=radical)
+### 🎓 OpenBootcamp (OB)
+- Introducción a la Programación, HTML & CSS, JavaScript, Git, Java Básico, Python, Django, TypeScript, Angular Básico, ReactJS Básico/Intermedio, PHP, Laravel.
 
 ---
 
@@ -74,27 +76,28 @@ Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**
 
 > "La mejor manera de predecir el futuro es crearlo."
 
-Desarrollador Full Stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web modernas. Trabajo tanto en frontend como backend, desarrollando soluciones robustas y escalables.
+Soy desarrollador Full Stack con experiencia en:
+- ✔️ Interfaces amigables (React, Bootstrap, Vue, Angular)  
+- ✔️ APIs y lógica backend (Laravel, Express, Django)  
+- ✔️ DevOps y entornos productivos (Docker, SSH, CI/CD)  
+- ✔️ Visualización de datos (Looker Studio, Google Sheets)  
 
-✔️ Interfaces amigables (React, Bootstrap, Vue, Angular)  
-✔️ APIs y lógica backend (Laravel, Express, Django)  
-✔️ DevOps y entornos productivos (Docker, SSH, CI/CD)  
-✔️ Visualización de datos (Looker Studio, Google Sheets)
-
-Soy organizado, proactivo, y me encanta colaborar en equipos multidisciplinarios o de forma autónoma. Siempre busco aprender y aplicar nuevas tecnologías que mejoren procesos y aporten valor.
-
-🎯 **Objetivo profesional:**  
-Seguir creciendo como desarrollador Full Stack, contribuyendo a proyectos que impulsen la transformación digital.
+🎯 **Objetivo profesional:** Seguir creciendo como desarrollador Full Stack y contribuir a proyectos que impulsen la transformación digital.
 
 ---
 
 ## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgegustavomartinez)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgmartinez1965@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TnlComputer)  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgegustavomartinez)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgmartinez1965@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TnlComputer)
+---
 
+## 📈 GitHub Stats
+![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TnlComputer&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TnlComputer&layout=compact&theme=radical)
 
 ---
 
 ![Dev gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
