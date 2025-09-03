@@ -54,9 +54,9 @@ Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
 ---
 
 ## 🚀 Proyectos Destacados
-- **Symon Sport Lubricentro** – Backend en Laravel, automatización de procesos, análisis de datos. [Repo](#)
-- **Dashboard de BI** – Visualización de ventas y KPIs en Looker Studio y Google Sheets. [Repo](#)
-- **Proyecto Full Stack Laravel + Vue.js** – Desarrollo de aplicaciones web escalables con frontend moderno y APIs robustas. [Repo](#)
+- **Symon Sport Lubricentro** – En desarrollo - Backend en Laravel. [Repo](https://github.com/TnlComputer/SymonSport-Lubricentro)
+- **Dashboard de BI** – Visualización de ventas y KPIs en Looker Studio y Google Sheets.
+- **Proyecto Full Stack Laravel + Vue.js** – Desarrollo de aplicaciones web escalables con frontend moderno y APIs robustas. 
 
 ---
 
@@ -94,9 +94,7 @@ Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
 ---
 
 ###  🎓 Ademass
-
 2023 – 2024
-
 - Certificados en:
   - HTML5, CSS3 (Curso y Taller)
   - Git & GitHub
@@ -108,7 +106,20 @@ Me encanta aprender nuevas herramientas y construir proyectos con impacto real.
 ---
 
 ### 🎓 OpenBootcamp (OB)
-- Introducción a la Programación, HTML & CSS, JavaScript, Git, Java Básico, Python, Django, TypeScript, Angular Básico, ReactJS Básico/Intermedio, PHP, Laravel.
+- Certificados en:
+  - Introducción a la Programación
+  - HTML & CSS
+  - JavaScript
+  - Git/GitHub
+  - Java
+  - Básico
+  - Python
+  - Django
+  - TypeScript
+  - Angular Básico
+  - ReactJS Básico/Intermedio
+  - PHP
+  - Laravel
 
 ---
 
